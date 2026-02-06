@@ -11,4 +11,4 @@ Start by configuring project by running: ```cmake --preset <configurePreset>```
 
 Then build it using: ```cmake --build --preset <buildPreset>```
 
-You can also run tests: ```ctest --presset <testPreset>```
+You can also run tests: ```ctest --preset <testPreset>```
